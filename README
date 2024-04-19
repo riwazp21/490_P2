@@ -1,2 +1,6 @@
 Project 2
-
+The code is in the main.ipynb file
+The yaml file if using the GPU is in cuda.yaml
+The yaml file if using the cpu is in new.yaml
+The input to the code is in the Output directory
+running script1.sh will download you miniconda and all the required dependencies
